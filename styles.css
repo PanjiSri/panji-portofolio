@@ -255,12 +255,6 @@ section li:hover {
     background: var(--accent-color);
 }
 
-/* Menghapus aturan CSS yang tidak digunakan */
-/* section li i {
-    margin-right: 10px;
-    color: var(--primary-color);
-} */
-
 #contact p {
     text-align: center;
     font-size: 1.2em;
